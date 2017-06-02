@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Clover File Scanner</string>
+    <string name="file_scan_in_progress">File scan in progress.</string>
+    <string name="empty_sdcard">No results to display.</string>
+    <string name="scan_cancelled">Scan cancelled</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+    <string name="scan_summary">SD Card Scan Summary</string>
+    <string name="total_files_scanned">Total Files Scanned:</string>
+    <string name="avg_file_size">Average File Size:</string>
+    <string name="top_10_largest_files">Top 10 Largest Files:</string>
+
+    <string name="enable_permission">Please enable the permissions from settings.</string>
+    <string name="storage_permission_required">Storage permissions are required.</string>
+    <string name="preparing_to_cancel">Preparing to cancel.</string>
+    <string name="open">Open Settings</string>
+    <string name="unable_to_read_external_storage">Unable to read external storage.</string>
+
+</resources>
